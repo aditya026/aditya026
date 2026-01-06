@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya026/](https://github.com/aditya026/)
 
-- 📫 How to reach me **https://www.instagram.com/aditya.26.z/?hl=en**
-
 - ⚡ Fun fact **My code has zero social anxiety; it loves to interact with bugs! 🐞💬 #BugWhisperer**
 
 <h3 align="left">Connect with me:</h3>

@@ -3,7 +3,7 @@
 <div align="center"><img alt="pikachu" src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" /></div> <br/><br/> 
 
 <h2><img src="https://slackmojis.com/emojis/10254-pepe_naruto/download" width="20"> <b>About Me</b></h2>
-    <p>21 y/o Full-Stack Developer (MERN & Python) | BCA Graduate pursuing MCA | Passionate about Cybersecurity, IoT, and Building Impactful Tech</p>
+    <p>22 y/o Full-Stack Developer (MERN & Python) | BCA Graduate pursuing MCA | Passionate about Cybersecurity, IoT, and Building Impactful Tech</p>
     
 
 <h2><img src="https://slackmojis.com/emojis/37554-charmander/download" width="30"> <b>Socials</b></h2>

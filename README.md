@@ -8,7 +8,6 @@
 
 <h2><img src="https://slackmojis.com/emojis/37554-charmander/download" width="30"> <b>Socials</b></h2>
 
-[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya026/) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-5a2882289/)
 
 <h2><img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30" /> <b>Tech Stack</b></h2>
 

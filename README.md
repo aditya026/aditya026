@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://slackmojis.com/emojis/13387-gokurun/download" width="35"> <b>Hello Hello! I'm Aditya Singh</b></h1>
+<h1 align="center"><img src="https://slackmojis.com/emojis/13387-gokurun/download" width="35"> <b>Hello! I'm Aditya Singh</b></h1>
 
 <div align="center"><img alt="pikachu" src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" /></div> <br/><br/> 
 

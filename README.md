@@ -6,7 +6,6 @@
     <p>just another tech...</p>
     
 
-<h2><img src="https://slackmojis.com/emojis/37554-charmander/download" width="30"> <b>Socials</b></h2>
 
 
 <h2><img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30" /> <b>Tech Stack</b></h2>
